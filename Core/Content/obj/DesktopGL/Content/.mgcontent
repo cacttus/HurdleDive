@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/git/dev/dev/hurdles/Core/Content/Font.spritefont</File>
+    <File>C:/git/dev/dev/hurdles/Core/Content/tiles12x12.png</File>
+    <File>C:/git/dev/dev/hurdles/Core/Content/jump.ogg</File>
+    <File>C:/git/dev/dev/hurdles/Core/Content/fail.ogg</File>
+    <File>C:/git/dev/dev/hurdles/Core/Content/crash.ogg</File>
+    <File>C:/git/dev/dev/hurdles/Core/Content/get.ogg</File>
+    <File>C:/git/dev/dev/hurdles/Core/Content/whiroop.ogg</File>
+    <File>C:/git/dev/dev/hurdles/Core/Content/wowowowo.ogg</File>
+    <File>C:/git/dev/dev/hurdles/Core/Content/Font2.spritefont</File>
+    <File>C:/git/dev/dev/hurdles/Core/Content/land.ogg</File>
+    <File>C:/git/dev/dev/hurdles/Core/Content/coinget.ogg</File>
+    <File>C:/git/dev/dev/hurdles/Core/Content/blip.ogg</File>
+    <File>C:/git/dev/dev/hurdles/Core/Content/nice.ogg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

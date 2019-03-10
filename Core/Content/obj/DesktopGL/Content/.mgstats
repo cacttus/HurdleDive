@@ -1,0 +1,14 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/git/dev/dev/hurdles/Core/Content/blip.ogg","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/blip.xnb","SoundEffectProcessor","SoundEffectContent",5649,12009,0.1131068
+"C:/git/dev/dev/hurdles/Core/Content/coinget.ogg","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/coinget.xnb","SoundEffectProcessor","SoundEffectContent",8047,42729,0.1131407
+"C:/git/dev/dev/hurdles/Core/Content/crash.ogg","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/crash.xnb","SoundEffectProcessor","SoundEffectContent",5524,12393,0.1127166
+"C:/git/dev/dev/hurdles/Core/Content/fail.ogg","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/fail.xnb","SoundEffectProcessor","SoundEffectContent",17578,177513,0.1190066
+"C:/git/dev/dev/hurdles/Core/Content/Font.spritefont","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2080,529425,0.4351493
+"C:/git/dev/dev/hurdles/Core/Content/Font2.spritefont","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/Font2.xnb","FontDescriptionProcessor","SpriteFontContent",2079,529425,0.0689447
+"C:/git/dev/dev/hurdles/Core/Content/get.ogg","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/get.xnb","SoundEffectProcessor","SoundEffectContent",6016,17641,0.1266738
+"C:/git/dev/dev/hurdles/Core/Content/jump.ogg","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/jump.xnb","SoundEffectProcessor","SoundEffectContent",7134,25065,0.2043194
+"C:/git/dev/dev/hurdles/Core/Content/land.ogg","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/land.xnb","SoundEffectProcessor","SoundEffectContent",4574,4841,0.1130102
+"C:/git/dev/dev/hurdles/Core/Content/nice.ogg","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/nice.xnb","SoundEffectProcessor","SoundEffectContent",5331,28137,0.1130544
+"C:/git/dev/dev/hurdles/Core/Content/tiles12x12.png","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/tiles12x12.xnb","TextureProcessor","Texture2DContent",46891,1048661,0.0740226
+"C:/git/dev/dev/hurdles/Core/Content/whiroop.ogg","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/whiroop.xnb","SoundEffectProcessor","SoundEffectContent",4958,9449,0.1147631
+"C:/git/dev/dev/hurdles/Core/Content/wowowowo.ogg","C:/git/dev/dev/hurdles/Core/Content/bin/DesktopGL/Content/wowowowo.xnb","SoundEffectProcessor","SoundEffectContent",16982,102889,0.1195011

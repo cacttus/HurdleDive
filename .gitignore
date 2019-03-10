@@ -1,0 +1,12 @@
+./.vs
+./.git
+./Android/bin
+./Android/obj
+./Desktop/bin
+./Desktop/x64
+./Desktop/x86
+./Desktop/obj
+./Desktop/debug
+./Desktop/release
+./Windows10UWP/obj
+./Windows10UWP/bin

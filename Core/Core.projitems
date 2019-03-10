@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>f2ad936c-c6ec-43da-8ef2-05ca11364681</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Core</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)AdMan.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Audio.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MathUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MenuButton.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Touchable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameObject.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameSystem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Global.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Game.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Res.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Screen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tiles.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)Content\Content.mgcb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)devlog.txt" />
+  </ItemGroup>
+</Project>
